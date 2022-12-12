@@ -19,7 +19,7 @@ body {
     max-width: 1200px;
 }
 li {
-   font-size: 24px; 
+   font-size: 16px; 
 }
 
 a:link {
@@ -36,4 +36,8 @@ a:hover {
 
 a:active {
   text-decoration: underline;
+}
+
+.recipe-photo {
+    max-width: 400px;
 }
